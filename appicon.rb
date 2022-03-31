@@ -5,7 +5,7 @@ class Appicon < Formula
   desc "iOS应用AppIcon生成器"
   homepage "https://github.com/yuyedaidao/appicon.git"
   url "https://github.com/yuyedaidao/appicon/releases/download/0.0.1/appicon_0.0.1.tar.gz"
-  sha256 "f4f635b8aebc4f1c5e095e6aa28b982821739a4618a766c82818f0f459189dbc"
+  sha256 "30a9038bbe55bb292d496812981920bc98b9d7c1eadf03293b86167572f780fc"
   license "NOASSERTION"
 
   # depends_on "cmake" => :build
