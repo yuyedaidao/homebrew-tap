@@ -4,8 +4,8 @@
 class Sparrow < Formula
   desc "Sparrow资源加载"
   homepage "https://codecenter.iqilu.com:8181/wyq/go-sparrow.git"
-  url "https://github.com/yuyedaidao/appicon/releases/download/0.0.1/appicon_0.0.1.tar.gz"
-  sha256 "30a9038bbe55bb292d496812981920bc98b9d7c1eadf03293b86167572f780fc"
+  url "hhttps://codecenter.iqilu.com:8181/wyq/go-sparrow/-/raw/main/sparrow_0.0.1.tar.gz"
+  sha256 "a4eed20e1f789def467061c9934e1d8265eb23ce313ec54029392ac9b0738e4b"
   license "NOASSERTION"
 
   # depends_on "cmake" => :build
