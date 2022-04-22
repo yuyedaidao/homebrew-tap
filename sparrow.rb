@@ -4,8 +4,8 @@
 class Sparrow < Formula
     desc "sparrow项目资源下载工具"
     homepage "https://codecenter.iqilu.com:8181/wyq/go-sparrow.git"
-    url "https://codecenter.iqilu.com:8181/wyq/go-sparrow/-/raw/main/sparrow_0.0.1.tar.gz"
-    sha256 "a4eed20e1f789def467061c9934e1d8265eb23ce313ec54029392ac9b0738e4b"
+    url "https://codecenter.iqilu.com:8181/wyq/go-sparrow/-/raw/main/sparrow_0.0.2.tar.gz"
+    sha256 "83de6fcd1495cd8d02004f59df6ffc7287fff7b01209b316f04b16a5d3ff1116"
     license "MIT"
   
     # depends_on "cmake" => :build
