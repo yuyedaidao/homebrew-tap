@@ -1,6 +1,6 @@
 cask "leap" do
-  version "1.1.1"
-  sha256 "f0141bc2db1fd5d3e3cc6f071cb7fb8cce6033b5f5a1a0f4b79f18ff6b735759"
+  version "1.1.2"
+  sha256 "c43f0cebad870dbe6df9885c004216f3096a1dcd14defe290c759348d4c9fe9d"
 
   url "https://github.com/yuyedaidao/Leap/releases/download/v#{version}/Leap-#{version}-arm64.dmg"
   name "Leap"
